@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V8tmZQOOdiU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\TUKA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\231ac\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\231ac\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

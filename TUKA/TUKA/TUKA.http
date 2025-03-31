@@ -1,0 +1,6 @@
+@TUKA_HostAddress = http://localhost:5243
+
+GET {{TUKA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
