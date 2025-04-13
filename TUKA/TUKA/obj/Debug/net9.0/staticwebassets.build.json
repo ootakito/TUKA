@@ -1,0 +1,1382 @@
+{
+  "Version": 1,
+  "Hash": "3lgqWK3BiYZPj8Exu7DoyjvLCRKA8DA8dzEQOPyVkYA=",
+  "Source": "TUKA",
+  "BasePath": "_content/TUKA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TUKA\\wwwroot",
+      "Source": "TUKA",
+      "ContentRoot": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\",
+      "BasePath": "_content/TUKA",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\3yztaf0vba-wvt3l2aoqd.gz",
+      "SourceId": "TUKA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TUKA",
+      "RelativePath": "assets/index-CJlAztla#[.{fingerprint=wvt3l2aoqd}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\assets\\index-CJlAztla.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "x9aknxunom",
+      "Integrity": "Bax2mGPcfeVZYax6bcpVhGxaY3yTQg+xFkZ/MA7niUE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\assets\\index-CJlAztla.css"
+    },
+    {
+      "Identity": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\lc7tnedrzy-pdai9dbtkv.gz",
+      "SourceId": "TUKA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TUKA",
+      "RelativePath": "assets/index-DfCCnL4S#[.{fingerprint=pdai9dbtkv}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\assets\\index-DfCCnL4S.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1lbu1r12la",
+      "Integrity": "JRMHrOZIWAIfTPAoE1G9LMqjq5Go4gWfr4OEuB2i6Bs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\assets\\index-DfCCnL4S.js"
+    },
+    {
+      "Identity": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\sc40dj1u13-69kjnsiwqx.gz",
+      "SourceId": "TUKA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TUKA",
+      "RelativePath": "vite#[.{fingerprint=69kjnsiwqx}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\vite.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xj979drvbl",
+      "Integrity": "42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\vite.svg"
+    },
+    {
+      "Identity": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\yupgohjxa1-9ucvzri2fh.gz",
+      "SourceId": "TUKA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TUKA",
+      "RelativePath": "index#[.{fingerprint=9ucvzri2fh}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yjmlfja67o",
+      "Integrity": "kt9y8GrIS6KoKiJgWVlm0dBS7x6igPdUJcGDjkERMc8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\assets\\index-CJlAztla.css",
+      "SourceId": "TUKA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\",
+      "BasePath": "_content/TUKA",
+      "RelativePath": "assets/index-CJlAztla#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wvt3l2aoqd",
+      "Integrity": "9ChjNaGkn0uNJ3AiVC/AumcSPhAMtk4/JPwmcCbXKt8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-CJlAztla.css"
+    },
+    {
+      "Identity": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\assets\\index-DfCCnL4S.js",
+      "SourceId": "TUKA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\",
+      "BasePath": "_content/TUKA",
+      "RelativePath": "assets/index-DfCCnL4S#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pdai9dbtkv",
+      "Integrity": "8w0fD5cguJmldGKNeOrOMMehEBQT+/S9A3N2AhX78Sk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-DfCCnL4S.js"
+    },
+    {
+      "Identity": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\index.html",
+      "SourceId": "TUKA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\",
+      "BasePath": "_content/TUKA",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9ucvzri2fh",
+      "Integrity": "P74qY5+wWyy+Eh8pgU0tf6ndYBJF3hDZmcte7Sg1TWg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\vite.svg",
+      "SourceId": "TUKA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\",
+      "BasePath": "_content/TUKA",
+      "RelativePath": "vite#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69kjnsiwqx",
+      "Integrity": "SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vite.svg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/index-CJlAztla.css",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\3yztaf0vba-wvt3l2aoqd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001865671642"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bax2mGPcfeVZYax6bcpVhGxaY3yTQg+xFkZ/MA7niUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9ChjNaGkn0uNJ3AiVC/AumcSPhAMtk4/JPwmcCbXKt8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ChjNaGkn0uNJ3AiVC/AumcSPhAMtk4/JPwmcCbXKt8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CJlAztla.css",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\assets\\index-CJlAztla.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9ChjNaGkn0uNJ3AiVC/AumcSPhAMtk4/JPwmcCbXKt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ChjNaGkn0uNJ3AiVC/AumcSPhAMtk4/JPwmcCbXKt8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CJlAztla.css.gz",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\3yztaf0vba-wvt3l2aoqd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bax2mGPcfeVZYax6bcpVhGxaY3yTQg+xFkZ/MA7niUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bax2mGPcfeVZYax6bcpVhGxaY3yTQg+xFkZ/MA7niUE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CJlAztla.wvt3l2aoqd.css",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\3yztaf0vba-wvt3l2aoqd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001865671642"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bax2mGPcfeVZYax6bcpVhGxaY3yTQg+xFkZ/MA7niUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9ChjNaGkn0uNJ3AiVC/AumcSPhAMtk4/JPwmcCbXKt8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvt3l2aoqd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CJlAztla.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ChjNaGkn0uNJ3AiVC/AumcSPhAMtk4/JPwmcCbXKt8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CJlAztla.wvt3l2aoqd.css",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\assets\\index-CJlAztla.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9ChjNaGkn0uNJ3AiVC/AumcSPhAMtk4/JPwmcCbXKt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvt3l2aoqd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CJlAztla.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ChjNaGkn0uNJ3AiVC/AumcSPhAMtk4/JPwmcCbXKt8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CJlAztla.wvt3l2aoqd.css.gz",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\3yztaf0vba-wvt3l2aoqd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bax2mGPcfeVZYax6bcpVhGxaY3yTQg+xFkZ/MA7niUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvt3l2aoqd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CJlAztla.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bax2mGPcfeVZYax6bcpVhGxaY3yTQg+xFkZ/MA7niUE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DfCCnL4S.js",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\lc7tnedrzy-pdai9dbtkv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000026499192"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37736"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRMHrOZIWAIfTPAoE1G9LMqjq5Go4gWfr4OEuB2i6Bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8w0fD5cguJmldGKNeOrOMMehEBQT+/S9A3N2AhX78Sk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8w0fD5cguJmldGKNeOrOMMehEBQT+/S9A3N2AhX78Sk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DfCCnL4S.js",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\assets\\index-DfCCnL4S.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8w0fD5cguJmldGKNeOrOMMehEBQT+/S9A3N2AhX78Sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8w0fD5cguJmldGKNeOrOMMehEBQT+/S9A3N2AhX78Sk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DfCCnL4S.js.gz",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\lc7tnedrzy-pdai9dbtkv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRMHrOZIWAIfTPAoE1G9LMqjq5Go4gWfr4OEuB2i6Bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JRMHrOZIWAIfTPAoE1G9LMqjq5Go4gWfr4OEuB2i6Bs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DfCCnL4S.pdai9dbtkv.js",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\lc7tnedrzy-pdai9dbtkv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000026499192"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37736"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRMHrOZIWAIfTPAoE1G9LMqjq5Go4gWfr4OEuB2i6Bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8w0fD5cguJmldGKNeOrOMMehEBQT+/S9A3N2AhX78Sk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pdai9dbtkv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DfCCnL4S.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8w0fD5cguJmldGKNeOrOMMehEBQT+/S9A3N2AhX78Sk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DfCCnL4S.pdai9dbtkv.js",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\assets\\index-DfCCnL4S.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8w0fD5cguJmldGKNeOrOMMehEBQT+/S9A3N2AhX78Sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pdai9dbtkv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DfCCnL4S.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8w0fD5cguJmldGKNeOrOMMehEBQT+/S9A3N2AhX78Sk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DfCCnL4S.pdai9dbtkv.js.gz",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\lc7tnedrzy-pdai9dbtkv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRMHrOZIWAIfTPAoE1G9LMqjq5Go4gWfr4OEuB2i6Bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pdai9dbtkv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DfCCnL4S.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JRMHrOZIWAIfTPAoE1G9LMqjq5Go4gWfr4OEuB2i6Bs="
+        }
+      ]
+    },
+    {
+      "Route": "index.9ucvzri2fh.html",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\yupgohjxa1-9ucvzri2fh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003389830508"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kt9y8GrIS6KoKiJgWVlm0dBS7x6igPdUJcGDjkERMc8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"P74qY5+wWyy+Eh8pgU0tf6ndYBJF3hDZmcte7Sg1TWg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ucvzri2fh"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P74qY5+wWyy+Eh8pgU0tf6ndYBJF3hDZmcte7Sg1TWg="
+        }
+      ]
+    },
+    {
+      "Route": "index.9ucvzri2fh.html",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "456"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P74qY5+wWyy+Eh8pgU0tf6ndYBJF3hDZmcte7Sg1TWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ucvzri2fh"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P74qY5+wWyy+Eh8pgU0tf6ndYBJF3hDZmcte7Sg1TWg="
+        }
+      ]
+    },
+    {
+      "Route": "index.9ucvzri2fh.html.gz",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\yupgohjxa1-9ucvzri2fh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kt9y8GrIS6KoKiJgWVlm0dBS7x6igPdUJcGDjkERMc8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ucvzri2fh"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kt9y8GrIS6KoKiJgWVlm0dBS7x6igPdUJcGDjkERMc8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\yupgohjxa1-9ucvzri2fh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003389830508"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kt9y8GrIS6KoKiJgWVlm0dBS7x6igPdUJcGDjkERMc8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"P74qY5+wWyy+Eh8pgU0tf6ndYBJF3hDZmcte7Sg1TWg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P74qY5+wWyy+Eh8pgU0tf6ndYBJF3hDZmcte7Sg1TWg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "456"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P74qY5+wWyy+Eh8pgU0tf6ndYBJF3hDZmcte7Sg1TWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P74qY5+wWyy+Eh8pgU0tf6ndYBJF3hDZmcte7Sg1TWg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\yupgohjxa1-9ucvzri2fh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kt9y8GrIS6KoKiJgWVlm0dBS7x6igPdUJcGDjkERMc8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kt9y8GrIS6KoKiJgWVlm0dBS7x6igPdUJcGDjkERMc8="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\sc40dj1u13-69kjnsiwqx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001295336788"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "771"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 21:35:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 21:35:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg.gz",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\sc40dj1u13-69kjnsiwqx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 21:35:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\sc40dj1u13-69kjnsiwqx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001295336788"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "771"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 21:35:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 21:35:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg.gz",
+      "AssetFile": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\obj\\Debug\\net9.0\\compressed\\sc40dj1u13-69kjnsiwqx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 21:35:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY="
+        }
+      ]
+    }
+  ]
+}

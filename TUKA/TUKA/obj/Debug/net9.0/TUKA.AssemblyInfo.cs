@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TUKA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2922993b4c566fe5a43371a4d94bbc695e52c44")]
 [assembly: System.Reflection.AssemblyProductAttribute("TUKA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TUKA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

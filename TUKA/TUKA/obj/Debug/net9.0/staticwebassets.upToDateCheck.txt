@@ -1,0 +1,8 @@
+C:\Users\231ac\source\repos\TUKA\TUKA\wwwroot\assets\index-CJlAztla.css
+C:\Users\231ac\source\repos\TUKA\TUKA\wwwroot\assets\index-DfCCnL4S.js
+C:\Users\231ac\source\repos\TUKA\TUKA\wwwroot\vite.svg
+C:\Users\231ac\source\repos\TUKA\TUKA\wwwroot\index.html
+wwwroot\assets\index-CJlAztla.css
+wwwroot\assets\index-DfCCnL4S.js
+wwwroot\index.html
+wwwroot\vite.svg

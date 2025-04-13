@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\assets\\index-CJlAztla.css",
+      "PackagePath": "staticwebassets\\assets\\index-CJlAztla.css"
+    },
+    {
+      "Id": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\assets\\index-DfCCnL4S.js",
+      "PackagePath": "staticwebassets\\assets\\index-DfCCnL4S.js"
+    },
+    {
+      "Id": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\231ac\\source\\repos\\TUKA\\TUKA\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TUKA.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TUKA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TUKA.props",
+      "PackagePath": "build\\TUKA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TUKA.props",
+      "PackagePath": "buildMultiTargeting\\TUKA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TUKA.props",
+      "PackagePath": "buildTransitive\\TUKA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
